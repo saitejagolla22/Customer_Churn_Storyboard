@@ -32,26 +32,26 @@ The analysis uses Python, Pandas, Seaborn, and Matplotlib to investigate the ove
 ![Overall Churn](01_overall_churn.png)
 
 ### 2. Contract Type and Churn
-
+**File:** `02_contract_churn.png`
 **Key takeaways:**
 - Month-to-month customers show the highest churn rate.
 - One-year and two-year contract customers have lower churn rates.
 - Longer contracts are associated with better customer retention.
-
+![Contract Churn](02_contract_churn.png)
 ### 3. Payment Method and Churn
-
+**File:** `03_payment_churn.png`
 **Key takeaways:**
 - Electronic-check users show the highest churn rate among the payment groups.
 - Automatic bank transfer and credit card users show lower churn rates.
 - Payment experience may be a useful area for further customer-retention investigation.
-
+![Contract Churn](03_payment_churn.png)
 ## Overall Business Insights
-
+**File:** `04_churn_comparison.png`
 - The overall customer churn rate is approximately 26.54%.
 - Month-to-month contracts are associated with substantially higher churn.
 - Electronic-check users have a noticeably higher churn rate than other payment groups.
 - Customer retention strategies could prioritize investigating these customer segments.
-
+![Churn Comparison](04_Churn_comparison.png)
 ## Conclusion
 
 The exploratory analysis demonstrates how customer data can be transformed into meaningful business insights through data cleaning, aggregation, and visualization.
