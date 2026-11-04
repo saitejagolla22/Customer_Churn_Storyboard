@@ -51,7 +51,7 @@ The analysis uses Python, Pandas, Seaborn, and Matplotlib to investigate the ove
 - Month-to-month contracts are associated with substantially higher churn.
 - Electronic-check users have a noticeably higher churn rate than other payment groups.
 - Customer retention strategies could prioritize investigating these customer segments.
-![Churn Comparison](04_Churn_comparison.png)
+![Churn Comparison](04_churn_comparison.png)
 ## Conclusion
 
 The exploratory analysis demonstrates how customer data can be transformed into meaningful business insights through data cleaning, aggregation, and visualization.
