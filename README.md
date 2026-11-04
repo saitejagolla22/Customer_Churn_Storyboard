@@ -57,6 +57,20 @@ The exploratory analysis demonstrates how customer data can be transformed into 
 
 The findings can help a business identify customer segments that may need additional retention attention. These are observational relationships and should not be interpreted as proof of causation.
 
+##Final Output
+=======================================================
+CUSTOMER CHURN STORYBOARD — BUSINESS FINDINGS
+=======================================================
+
+1. Overall churn rate: 26.54%
+
+2. Highest churn contract: Month-to-month (42.71%)
+   Lowest churn contract: Two year (2.83%)
+
+3. Highest churn payment method: Electronic check (45.29%)
+   Lowest churn payment method: Credit card (automatic) (15.24%)
+
+
 ## Dataset Source
 
 IBM Telco Customer Churn sample dataset:
