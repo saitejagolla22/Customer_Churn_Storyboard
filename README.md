@@ -58,9 +58,9 @@ The exploratory analysis demonstrates how customer data can be transformed into 
 The findings can help a business identify customer segments that may need additional retention attention. These are observational relationships and should not be interpreted as proof of causation.
 
 ## Final Output
-=======================================================
+===============================================
 CUSTOMER CHURN STORYBOARD — BUSINESS FINDINGS
-=======================================================
+================================================
 
 1. Overall churn rate: 26.54%
 
