@@ -24,11 +24,12 @@ The analysis uses Python, Pandas, Seaborn, and Matplotlib to investigate the ove
 ## Visual Analysis
 
 ### 1. Overall Customer Churn
-
+**File:** `01_overall_churn.png`
 **Key takeaways:**
 - The baseline churn rate is approximately 26.54%.
 - Around 73.46% of customers remain with the company.
 - This baseline provides a reference for identifying higher-risk customer groups.
+![Overall Churn](01_overall_churn.png)
 
 ### 2. Contract Type and Churn
 
