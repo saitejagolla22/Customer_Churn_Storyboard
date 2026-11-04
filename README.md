@@ -25,8 +25,6 @@ The analysis uses Python, Pandas, Seaborn, and Matplotlib to investigate the ove
 
 ### 1. Overall Customer Churn
 
-![Overall churn](images/01_overall_churn.png)
-
 **Key takeaways:**
 - The baseline churn rate is approximately 26.54%.
 - Around 73.46% of customers remain with the company.
@@ -34,16 +32,12 @@ The analysis uses Python, Pandas, Seaborn, and Matplotlib to investigate the ove
 
 ### 2. Contract Type and Churn
 
-![Contract churn](images/02_contract_churn.png)
-
 **Key takeaways:**
 - Month-to-month customers show the highest churn rate.
 - One-year and two-year contract customers have lower churn rates.
 - Longer contracts are associated with better customer retention.
 
 ### 3. Payment Method and Churn
-
-![Payment churn](images/03_payment_churn.png)
 
 **Key takeaways:**
 - Electronic-check users show the highest churn rate among the payment groups.
